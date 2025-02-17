@@ -49,7 +49,7 @@ new technologies, and take my skills to the next level. 🚀 If there's somethin
 ### 💻 Languages and Tools:
 
 #### 🖥️ Programming Languages
-<table align="center">
+<table>
   <tr>
     <td align="center">
       <img 
@@ -91,7 +91,7 @@ new technologies, and take my skills to the next level. 🚀 If there's somethin
 </table>
 
 #### 🎨 Frontend Development
-<table align="center">
+<table>
   <tr>
     <td align="center">
       <img 
@@ -127,7 +127,7 @@ new technologies, and take my skills to the next level. 🚀 If there's somethin
 </table>
 
 #### 🔙 Backend Development
-<table align="center">
+<table>
   <tr>
     <td align="center">
       <img 
@@ -181,7 +181,7 @@ new technologies, and take my skills to the next level. 🚀 If there's somethin
 </table>
 
 #### 🗄️ Databases
-<table align="center">
+<table>
   <tr>
     <td align="center">
       <img 
@@ -217,7 +217,7 @@ new technologies, and take my skills to the next level. 🚀 If there's somethin
 </table>
 
 #### 📱 Mobile App Development
-<table align="center">
+<table>
   <tr>
     <td align="center">
       <img 
@@ -235,7 +235,7 @@ new technologies, and take my skills to the next level. 🚀 If there's somethin
 </table>
 
 #### ⚙️ DevOps
-<table align="center">
+<table>
   <tr>
     <td align="center">
       <img 
